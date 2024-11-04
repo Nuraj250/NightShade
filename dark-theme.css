@@ -1,0 +1,9 @@
+.dark-theme {
+    background-color: #121212 !important;
+    color: #e0e0e0 !important;
+  }
+  
+  /* Add specific element styles for dark mode */
+  .dark-theme a { color: #bb86fc !important; }
+  .dark-theme header, .dark-theme footer { background-color: #1e1e1e !important; }
+  
